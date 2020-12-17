@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "name": "image-component",
+  "functions": {
+    "_next/image": {
+      "memory": 1024
+    }
+  }
+}
