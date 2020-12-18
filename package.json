@@ -1,6 +1,9 @@
 {
   "name": "image-component",
   "version": "1.0.0",
+  "engines": {
+    "npm": "6"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
