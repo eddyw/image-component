@@ -10,9 +10,13 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "canary",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "next": "10.0.3",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "sharp": "0.26.3"
   },
+  "resolutions": {
+		"sharp": "0.26.3"
+	},
   "license": "MIT"
 }
