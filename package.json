@@ -16,7 +16,7 @@
     "sharp": "0.26.3"
   },
   "resolutions": {
-		"sharp": "0.26.3"
-	},
+    "sharp": "0.26.3"
+  },
   "license": "MIT"
 }
